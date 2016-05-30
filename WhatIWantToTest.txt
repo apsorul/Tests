@@ -1,0 +1,10 @@
+1: Testing login
+2: Testing logout
+3: Testing search
+4: Testing build resources buildings
+5: Testing build fabric buildings
+6: Testing research
+7: Testing build defense building
+8: Testing sending the fleet to mine
+9: Testing build fleet
+10: Testing search and create alliance
